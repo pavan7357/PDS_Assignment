@@ -1,5 +1,7 @@
 Assignment 2
 
+Note: I have explained my analysis in Python Notebook comment section.
+
 Data link: https://app.box.com/s/jm6pw202asu4xd3uypwtry2rqk691y1i
 
 The provided data (link above) contains various details and attributes associated with used cars.
