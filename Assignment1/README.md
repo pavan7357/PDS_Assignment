@@ -9,7 +9,8 @@ qualitative attribute indicated the presence or absence of the symptoms. Based o
 design the three stages of reproducible workflow, includes the work you can do and the folder structure
 in each stage (reference study case in chapter 3). (5 points)
 
-Check data in 
+ 
+ Check data in Assignment1/WomenFrailty/raw_data/Women_Frailty.csv
 
 2) Perform 5 data visualization tasks on the student performance dataset given in the link below (create
 5 different visualizations). Explain what kind analysis has become easier with each of the visualizations.
