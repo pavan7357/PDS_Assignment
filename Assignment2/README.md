@@ -12,6 +12,7 @@ Make and model of the car, Location or city of sale, Year of manufacture, Mileag
 owners, Engine displacement, Engine horsepower, Number of seats, and Price when the car was new.
 
 Use this data to perform the following:
+
 a) Look for the missing values in all the columns and either impute them (replace with mean,
 median, or mode) or drop them. Justify your action for this task. (4 points)
 
